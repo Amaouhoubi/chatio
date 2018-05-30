@@ -1,1 +1,3 @@
-# chatio
+# CHAt.io
+
+## Introduction
